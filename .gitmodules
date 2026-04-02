@@ -1,0 +1,3 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/narcisa1tamas-cyber/Proiect-IS-2026.git
