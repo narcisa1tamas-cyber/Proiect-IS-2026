@@ -1,9 +1,0 @@
-[submodule "mobile"]
-	path = mobile
-	url = https://github.com/narcisa1tamas-cyber/Proiect-IS-2026.git
-[submodule "web"]
-	path = web
-	url = https://github.com/narcisa1tamas-cyber/Proiect-IS-2026.git
-[submodule "cloud"]
-	path = cloud
-	url = https://github.com/narcisa1tamas-cyber/Proiect-IS-2026.git
