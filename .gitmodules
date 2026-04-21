@@ -1,6 +1,3 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/narcisa1tamas-cyber/IS-Aplicatie-Mobile.git
-[submodule "submodules/mobile"]
-	path = submodules/mobile
-	url = https://github.com/narcisa1tamas-cyber/IS-Aplicatie-Mobile.git
