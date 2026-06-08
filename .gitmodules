@@ -4,3 +4,6 @@
 [submodule "HospiHelp"]
 	path = HospiHelp
 	url = https://github.com/GhineaDimitrie/HospiHelp.git
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/FaurRazvan/Arduino-raspberry.git
